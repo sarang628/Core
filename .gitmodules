@@ -4,3 +4,6 @@
 [submodule "TorangEngineerMode"]
 	path = TorangEngineerMode
 	url = https://github.com/sarang628/TorangEngineerMode
+[submodule "TorangBaseTheme"]
+	path = TorangBaseTheme
+	url = https://github.com/sarang628/TorangBaseTheme
