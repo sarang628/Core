@@ -1,3 +1,6 @@
 [submodule "TorangCore"]
 	path = TorangCore
 	url = https://github.com/sarang628/TorangCore
+[submodule "TorangEngineerMode"]
+	path = TorangEngineerMode
+	url = https://github.com/sarang628/TorangEngineerMode
